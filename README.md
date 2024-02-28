@@ -2,7 +2,7 @@
 
 ## Who I Am 💬
 
-I'm Ensar, Yıldız Technical University student who is a Computer Science enthusiast. My passions are C and Python.
+I'm Ensar, Yıldız Technical University student who is a Computer Science enthusiast. C and Python are my passions.
 
 ## My Projects ⚡
 
