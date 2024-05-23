@@ -1,6 +1,6 @@
 # Hi there 👋
 
-## Who I Am 💬
+## Who Am I 💬
 
 I'm Ensar, Yıldız Technical University student who is a Computer Science enthusiast. C and Python are my passions.
 
